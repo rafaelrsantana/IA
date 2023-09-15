@@ -8,4 +8,4 @@ Sklearn,
 Matplotlib,
 Numpy
 
-Também é necessária uma tabela no estilo .csv na mesma pasta da aplicação para importá-la e a inteligência poder utilizar como banco de dados.
+Também é necessária uma tabela no estilo .csv na mesma pasta da aplicação para importá-la e a inteligência poder utilizá-la como banco de dados.
