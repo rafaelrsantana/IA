@@ -1,0 +1,11 @@
+diagnóstico,O paciente tem dor de cabeça?,O paciente tem garganta inflamada?,O paciente tem tosse?,O paciente tem cansaço?,O paciente tem fadiga?,O paciente tem dores no corpo?,O paciente tem ocasionais dores de garganta?,O paciente tem tosses ocasionais?,O paciente tem coriza?,O paciente tem espirro?,O paciente tem febre?
+Receitar analgesico,1,0,0,0,0,0,0,0,0,0,0
+Gripe,1,1,1,0,0,0,0,0,0,0,0
+Mononucleose infecciosa,1,0,0,1,0,0,0,0,0,0,0
+Amigdalite,0,1,0,1,0,0,0,0,0,0,0
+Estresse,0,0,0,1,0,0,0,0,0,0,0
+Covid19,1,0,0,0,1,1,1,1,0,0,0
+Rinite Alérgica,0,0,0,0,0,0,0,0,1,1,0
+Sinusite,1,0,0,0,0,0,0,0,1,0,0
+Dengue,1,0,0,0,1,1,0,0,0,0,1
+Chicungunha,1,0,0,0,0,1,0,0,0,0,1

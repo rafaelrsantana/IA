@@ -1,0 +1,11 @@
+animal,O animal tem pelo?,O animal dá leite?,O animal tem penas?, O animal voa?,O animal poem ovos?,O animal é mamifero?,O animal come carne?,O animal tem dentes pontiagudos?,O animal tem garras?,O animal tem olhos frontais?,O animal tem casco?,O animal rumina?,O animal tem dedos pares?,O animal é carnívoro?,O animal tem cor amarelo-tostado?,O animal tem manchas escuras?,O animal tem listras pretas?,O animal é ungulado?,O animal tem pernas longas?,O animal tem pescoço comprido?,O animal tem cor branca e listras pretas?,O animal é uma ave?,O animal é preto e branco?,O animal nada?,O animal é bom voador?,O animal tem corpo arredondado?,O animal tem penas densas?,O animal é doméstico?,O animal tem calda curta?,O animal é cor de rosa?
+Albatroz,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Avestruz,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0
+Flamingo,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,1
+Galinha,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0
+Girafa,1,1,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Leopardo,1,1,0,0,0,1,1,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Morcego,1,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pinguim,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0
+Tigre,1,1,0,0,0,1,1,1,1,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zebra,1,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
